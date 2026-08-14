@@ -14,4 +14,6 @@ I spend my time:
 - Solving problems with code
 - Turning crazy ideas into experiments
 
-**Still early in the journey. The interesting part is what comes next.**
+**Build. Break. Learn. Rebuild. Repeat—until something extraordinary comes out of it.**
+
+
