@@ -14,6 +14,6 @@ I spend my time:
 - Solving problems with code
 - Turning crazy ideas into experiments
 
-**Build. Break. Learn. Rebuild. Repeat—until something extraordinary comes out of it.**
+**Build. Break. Learn. Rebuild. Repeat until something extraordinary comes out of it.**
 
 
